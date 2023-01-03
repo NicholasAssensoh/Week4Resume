@@ -1,0 +1,36 @@
+header{
+  text-align: center;
+}
+header{
+  background: red;
+      }
+    h1{
+      border: 25px solid red; 
+       background: red; text-align: center; 
+       border-radius: 25px;
+      }
+    h3{
+      border: 5px solid blueviolet; 
+      background: blueviolet; 
+      border-radius: 25px;
+    }
+    h4{
+      border: 5px solid red ;
+      background: red; 
+      text-align: center; 
+      border-radius: 25px;
+    }
+    body{
+      font-family: cursive;
+    }
+    a{
+      text-decoration: none;
+    }
+    a:visited{
+      color: gray
+    }
+    a:active{
+      color: black
+    }
+#skills{
+}
